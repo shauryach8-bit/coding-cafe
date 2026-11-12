@@ -13,3 +13,4 @@ Lab work for **Coding Café, FM102**.
 | lab2 | Variables, types, operations, I/O |
 | lab3 | Conditionals and loops |
 | lab4 | Git and GitHub |
+| lab5 | Functions, modules and file handling |
