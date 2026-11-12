@@ -9,10 +9,10 @@ Lab work for **Coding Café, FM102**.
 
 | Folder | Topic |
 |--------|-------|
-| lab1 | Terminal |
-| lab2 | Variables, types, operations, I/O |
-| lab3 | Conditionals and loops |
-| lab4 | Git and GitHub |
-| lab5 | Functions, modules and file handling |
-| lab6 | Data structures and CSV files |
-| lab7 | Objects, encapsulation and abstraction |
+| `week01/` | Lab 1: Terminal |
+| `week02/` | Lab 2: Variables, types, operations, I/O |
+| `week03/` | Lab 3: Conditionals and loops |
+| `week04/` | Lab 4: Git and GitHub |
+| `week05/` | Lab 5: Functions, modules and file handling |
+| `week06/` | Lab 6: Data structures and CSV files |
+| `week07/` | Lab 7: Objects, encapsulation and abstraction |
