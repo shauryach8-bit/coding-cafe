@@ -15,3 +15,4 @@ Lab work for **Coding Café, FM102**.
 | lab4 | Git and GitHub |
 | lab5 | Functions, modules and file handling |
 | lab6 | Data structures and CSV files |
+| lab7 | Objects, encapsulation and abstraction |
