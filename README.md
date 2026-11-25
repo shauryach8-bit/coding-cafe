@@ -17,3 +17,4 @@ Lab work for **Coding Café, FM102**.
 | `week06/` | Lab 6: Data structures and CSV files |
 | `week07/` | Lab 7: Objects, encapsulation and abstraction |
 | `week08/` | Lab 8: Inheritance, method overriding and polymorphism |
+| `week09/` | Lab 9: NumPy, Pandas and Matplotlib |
